@@ -243,15 +243,10 @@ textarea {
 }
 
 a {
-    -moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
-        border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    -webkit-transition: color 0.2s ease-in-out,
-        background-color 0.2s ease-in-out, border-color 0.2s ease-in-out,
-        box-shadow 0.2s ease-in-out;
-    -ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
-        border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
-        border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    -moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    -ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
     border-bottom: dotted 1px;
     text-decoration: none;
 }
@@ -2171,14 +2166,10 @@ button,
     -webkit-appearance: none;
     -ms-appearance: none;
     appearance: none;
-    -moz-transition: background-color 0.2s ease-in-out,
-        box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-    -webkit-transition: background-color 0.2s ease-in-out,
-        box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-    -ms-transition: background-color 0.2s ease-in-out,
-        box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
-    transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out,
-        color 0.2s ease-in-out;
+    -moz-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+    -webkit-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+    -ms-transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+    transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
     border: 0;
     border-radius: 0;
     cursor: pointer;
@@ -2925,15 +2916,10 @@ ul.icons li .icon:before {
 }
 
 ul.icons.alt li .icon:before {
-    -moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
-        border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    -webkit-transition: color 0.2s ease-in-out,
-        background-color 0.2s ease-in-out, border-color 0.2s ease-in-out,
-        box-shadow 0.2s ease-in-out;
-    -ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
-        border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
-        border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    -moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    -ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
     font-size: 1rem;
 }
 
@@ -3218,17 +3204,10 @@ table.alt tbody tr td {
 
 .pagination a,
 .pagination span {
-    -moz-transition: background-color 0.2s ease-in-out,
-        border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out,
-        color 0.2s ease-in-out;
-    -webkit-transition: background-color 0.2s ease-in-out,
-        border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out,
-        color 0.2s ease-in-out;
-    -ms-transition: background-color 0.2s ease-in-out,
-        border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out,
-        color 0.2s ease-in-out;
-    transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out,
-        box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+    -moz-transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+    -webkit-transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+    -ms-transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
+    transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
     border: solid 2px;
     display: inline-block;
     font-family: "Source Sans Pro", Helvetica, sans-serif;
@@ -3344,9 +3323,7 @@ table.alt tbody tr td {
     width: 100%;
     height: 100%;
     background-color: #212931;
-    background-image: url("../../images/overlay.png"),
-        linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),
-        url("../../images/bg.jpg");
+    background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg.jpg");
     background-size: auto, auto, 100% auto;
     background-position: center, center, top center;
     background-repeat: repeat, no-repeat, no-repeat;
@@ -3534,10 +3511,8 @@ body.is-preload #wrapper.fade-in:before {
     -webkit-transform: translateY(2rem);
     -ms-transform: translateY(2rem);
     transform: translateY(2rem);
-    -moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease,
-        visibility 0.5s;
-    -webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease,
-        visibility 0.5s;
+    -moz-transition: opacity 0.5s ease, -moz-transform 0.5s ease, visibility 0.5s;
+    -webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease, visibility 0.5s;
     -ms-transition: opacity 0.5s ease, -ms-transform 0.5s ease, visibility 0.5s;
     transition: opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
     opacity: 0;
@@ -3591,9 +3566,9 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
     }
 
     #intro h1 {
-        font-size: 2.5rem;
-        line-height: 1.1;
-        margin-bottom: 1rem;
+        font-size: 3.5rem;
+        line-height: 1.3;
+        margin-bottom: 10rem;
     }
 
     #intro p {
@@ -3682,14 +3657,10 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 }
 
 #header .logo {
-    -moz-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out,
-        opacity 0.5s ease, -moz-transform 0.5s ease, visibility 0.5s;
-    -webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out,
-        opacity 0.5s ease, -webkit-transform 0.5s ease, visibility 0.5s;
-    -ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out,
-        opacity 0.5s ease, -ms-transform 0.5s ease, visibility 0.5s;
-    transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out,
-        opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
+    -moz-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, -moz-transform 0.5s ease, visibility 0.5s;
+    -webkit-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, -webkit-transform 0.5s ease, visibility 0.5s;
+    -ms-transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, -ms-transform 0.5s ease, visibility 0.5s;
+    transition: border-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.5s ease, transform 0.5s ease, visibility 0.5s;
     pointer-events: auto;
     border-style: solid;
     border-color: #ffffff;
@@ -3839,8 +3810,7 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 
 #nav ul.links li a {
     -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-    -webkit-transition: background-color 0.2s ease-in-out,
-        color 0.2s ease-in-out;
+    -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
     -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
     transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
     display: block;
@@ -4616,14 +4586,10 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
 
 #navPanelToggle {
     text-decoration: none;
-    -moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
-        box-shadow 0.2s ease-in-out;
-    -webkit-transition: color 0.2s ease-in-out,
-        background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
-    -ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
-        box-shadow 0.2s ease-in-out;
-    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out,
-        box-shadow 0.2s ease-in-out;
+    -moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    -webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    -ms-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
     display: none;
     position: fixed;
     top: 0.75rem;
@@ -4685,12 +4651,9 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
     -webkit-transform: translateX(20rem);
     -ms-transform: translateX(20rem);
     transform: translateX(20rem);
-    -moz-transition: -moz-transform 0.5s ease, box-shadow 0.5s ease,
-        visibility 0.5s;
-    -webkit-transition: -webkit-transform 0.5s ease, box-shadow 0.5s ease,
-        visibility 0.5s;
-    -ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease,
-        visibility 0.5s;
+    -moz-transition: -moz-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
+    -webkit-transition: -webkit-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
+    -ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
     transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
     display: none;
     -webkit-overflow-scrolling: touch;
